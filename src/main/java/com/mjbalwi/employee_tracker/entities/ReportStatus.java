@@ -1,11 +1,7 @@
 package com.mjbalwi.employee_tracker.entities;
 
-/*
-*DAR is shorthand for DailyActivityReport
-*
- */
 
-public enum DARStatus {
+public enum ReportStatus {
     SUBMITTED,
     MISSING,
     PENDING
